@@ -21,7 +21,7 @@ public class MainProgram {
             
             if (username.equals(inputUsername) && password.equals(inputPassword)) {
                 // CAPTCHA
-                String captcha = "Lulus AAL 2024";
+                String captcha = "Semangat";
                 System.out.println("CAPTCHA: " + captcha);
                 System.out.print("Masukkan CAPTCHA : ");
                 scanner.nextLine(); 
